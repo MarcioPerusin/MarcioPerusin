@@ -3,6 +3,18 @@
 ## <div>My name is Marcio and my nickname is Perusin!</div>
 ** This ** is a ✨ _special_ ✨ repository GitHub profile.
 
+<div>
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) 
+
+</div>
+
+<div>    
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+</div>
+
 <p>🔭 I am currently in a career transition, aiming to work as a full-stack developer, data analysis and data science ...</p>
 
 <p>🌱 I am currently dedicating myself to learning the following tools and technologies: ...</p>
