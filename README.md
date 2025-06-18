@@ -45,8 +45,7 @@
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spack/spack-original.svg" height="40" width="40" /></td>  
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="40" width="40" /></td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" width="40" /></td>
-        <tr>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" height="40" width="40" /></td>
+        <tr>            
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" width="40" /></td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" width="40" /></td>  
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" /></td>
